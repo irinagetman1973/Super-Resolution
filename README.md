@@ -18,6 +18,7 @@ First model I focused on is
 
 ## References
 1. Activating More Pixels in Image Super-Resolution Transformer (https://github.com/XPixelGroup/HAT) by XPixelGroup. 
+
 @article{chen2022activating,
   title={Activating More Pixels in Image Super-Resolution Transformer},
   author={Chen, Xiangyu and Wang, Xintao and Zhou, Jiantao and Dong, Chao},
