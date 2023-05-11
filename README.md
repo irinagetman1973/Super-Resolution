@@ -22,7 +22,7 @@ This work makes use of the following resources:
 
 ### GitHub Repository
 1. [Activating More Pixels in Image Super-Resolution Transformer](https://github.com/XPixelGroup/HAT) by XPixelGroup:
-
+2. [Dataset Preparation](https://github.com/XPixelGroup/BasicSR/blob/master/docs/DatasetPreparation.md)
 ```bibtex
 @article{chen2022activating,
   title={Activating More Pixels in Image Super-Resolution Transformer},
@@ -34,4 +34,4 @@ This work makes use of the following resources:
 
 
 
-2. [Dataset Preparation] (https://github.com/XPixelGroup/BasicSR/blob/master/docs/DatasetPreparation.md)
+
