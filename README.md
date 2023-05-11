@@ -5,6 +5,7 @@ This is some of the research I have been conducting as part of my internship wit
 First model I focused on is
  ## HAT: Hybrid Attention Transformer for Image Super-Resolution
  HAT model significantly outperforms existing state-of-the-art methods, demonstrating marked improvements in image super-resolution performance.
+ 
  📈 Currently HAT-L has the following ranks (https://paperswithcode.com/task/image-super-resolution):
  
  [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/activating-more-pixels-in-image-super/image-super-resolution-on-bsd100-2x-upscaling)](https://paperswithcode.com/sota/image-super-resolution-on-bsd100-2x-upscaling?p=activating-more-pixels-in-image-super)
