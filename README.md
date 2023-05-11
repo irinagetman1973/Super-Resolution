@@ -21,7 +21,7 @@ After analysing current State-Of-The-Art Image Super Resolution models on   📈
 This work makes use of the following resources:
 
 ### GitHub Repository
-1.[Activating More Pixels in Image Super-Resolution Transformer](https://github.com/XPixelGroup/HAT) by XPixelGroup:
+1. [Activating More Pixels in Image Super-Resolution Transformer](https://github.com/XPixelGroup/HAT) by XPixelGroup:
 
 ```bibtex
 @article{chen2022activating,
@@ -29,7 +29,7 @@ This work makes use of the following resources:
   author={Chen, Xiangyu and Wang, Xintao and Zhou, Jiantao and Dong, Chao},
   journal={arXiv preprint arXiv:2205.04437},
   year={2022}
-}
-}
+}}
+
 
 2. [Dataset Preparation] (https://github.com/XPixelGroup/BasicSR/blob/master/docs/DatasetPreparation.md)
