@@ -17,6 +17,15 @@ After analysing current State-Of-The-Art Image Super Resolution models on   📈
  
  and showed state-of-the-art results on other benchmarks such as Set14, Set5, Urban100.
 
+ ## Metrics
+
+The following table summarizes the PSNR and SSIM metrics for our custom-trained HAT model and the pre-trained HAT-L model for x2 upscaling:
+
+| Model                           | PSNR     | SSIM   |
+|---------------------------------|----------|--------|
+| Custom trained HAT model x2 upscaling | 31.7279  | 0.9748 |
+| HAT-L_SRx2_ImageNet-pretrain    | 25.4805  | 0.9174 |
+
 ## References
 This work makes use of the following resources:
 
